@@ -11,9 +11,12 @@ Keep the following files in the same directory as app.py:
 **Running the App** : 
 
 **Install the dependencies:** pip install streamlit pandas scikit-learn
+
 Place the required pickle files in the project folder.
+
 **Start the app using:** 
 streamlit run app.py
+
 **The application will open in your browser at http://localhost:8501.**
 
 **App Inputs** : 
