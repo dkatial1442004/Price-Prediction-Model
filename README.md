@@ -17,14 +17,12 @@ streamlit run app.py
 **The application will open in your browser at http://localhost:8501.**
 
 **App Inputs** : 
-Location (dropdown)
-Total Square Feet
-Number of Bathrooms
-Number of Bedrooms (BHK)
+1. Location (dropdown)
+2. Total Square Feet
+3. Number of Bathrooms
+4. Number of Bedrooms (BHK)
 
 **Outputs** :
-Predicted price (in lakhs) from the chosen best model
-Predicted prices from other models
-Difference in predictions shown for comparison
-
-Difference in predictions shown for comparison
+1. Predicted price (in lakhs) from the chosen best model
+2. Predicted prices from other models
+3. Difference in predictions shown for comparison
